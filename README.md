@@ -59,11 +59,7 @@ app.listen(PORT, () => console.log(`Listening on PORT: ${PORT}`));
 
 Features include:
 
-- Being able to create Cars, Trucks, and Motorbikes
-- A menu for selecting existing vehicles
-- Vehicle specific actions. Like towing for trucks and Wheelies for motorcycles
-- Being able to change the speed of vehicles in the actions menu
-- Being able to turn vehicles in the actions menu
+None at this time.
 
 ## Future Features
 
