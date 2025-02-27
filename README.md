@@ -1,4 +1,4 @@
-# 09 Servers and APIs: Weather Dashboard
+# 09 Servers and APIs: Weather Dashboard.
 
 # Table of Contents
 
